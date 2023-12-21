@@ -3125,7 +3125,7 @@ allow null field toAddress in auratx tbl</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3.53m out of 126m users</span>
+                                    <span class="gh">ranked 3.37m out of 126m users</span>
                                 </div>
                                 <div class="text">Followed by 3 users</div>
                             </div>
@@ -3163,7 +3163,7 @@ allow null field toAddress in auratx tbl</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.15m out of 56.3m repositories</span>
+                                    <span class="gh">ranked 2.15m out of 81.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -3215,7 +3215,7 @@ allow null field toAddress in auratx tbl</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Dec 2023, 03:17:46 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Dec 2023, 04:15:58 (timezone Asia/Bangkok) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
